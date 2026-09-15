@@ -1,0 +1,7 @@
+# Visual Studio & VS Code
+.vs/
+.vscode/
+
+# Build artifacts (.NET)
+[Bb]in/
+[Oo]bj/
